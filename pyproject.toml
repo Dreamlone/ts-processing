@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ts-processing"
+version = "0.1.0"
+description = "Practice for time series forecasting"
+authors = ["Dreamlone <mik.sarafanov@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ts_processing"}]
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

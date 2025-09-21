@@ -8,6 +8,9 @@ packages = [{include = "ts_processing"}]
 
 [tool.poetry.dependencies]
 python = "^3.13"
+numpy = "^2.3.3"
+pandas = "^2.3.2"
+matplotlib = "^3.10.6"
 
 
 [build-system]

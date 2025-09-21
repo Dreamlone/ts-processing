@@ -29,7 +29,7 @@ lagged признаки и так далее.
 И конечно про то как модели можно сериализовать (сохранять) а потом загружать в память и использовать для предсказаний (это наверно ключевой момент в 
 этом подразделе). 
 
-Хочу еще по возмжности найти данные с актуальных соревнований (надо поискать, может на kaggle что-нибудь сейчас идет), чтобы студенты при
+Хочу еще по возможности найти данные с актуальных соревнований (надо поискать, может на kaggle что-нибудь сейчас идет), чтобы студенты при
 желании могли продолжить изучение фреймворков "с азартом" участвуя и в соревновании. 
 
 - Раздел общих рекомендаций на что обращать внимание при практической реализации: не забыть написать Dockerfile, смотрите на лицензию, 
@@ -43,6 +43,11 @@ lagged признаки и так далее.
 4. medium: [How can we quantify similarity between time series?](https://medium.com/gorillatech/how-can-we-quantify-similarity-between-time-series-ed1d0b633ca0)
 5. medium: [From Default Python Line Chart to Journal-Quality Infographics](https://medium.com/data-science/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3)
 6. medium: [Real-Time Time Series Anomaly Detection](https://medium.com/data-science/real-time-time-series-anomaly-detection-981cf1e1ca13)
+
+### TODO список 
+
+- [ ] Пересобрать окружение под Python 3.10 (?) чтобы можно было запустить FEDOT / другие AutoML фреймворки
+- [ ] Проверить может ли временной ряд с циклами и временной ряд с детерминированной сезонностью быть стационарным
 
 ## eng
 

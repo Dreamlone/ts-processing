@@ -44,11 +44,6 @@ lagged признаки и так далее.
 5. medium: [From Default Python Line Chart to Journal-Quality Infographics](https://medium.com/data-science/from-default-python-line-chart-to-journal-quality-infographics-80e3949eacc3)
 6. medium: [Real-Time Time Series Anomaly Detection](https://medium.com/data-science/real-time-time-series-anomaly-detection-981cf1e1ca13)
 
-### TODO список 
-
-- [ ] Пересобрать окружение под Python 3.10 (?) чтобы можно было запустить FEDOT / другие AutoML фреймворки
-- [ ] Проверить может ли временной ряд с циклами и временной ряд с детерминированной сезонностью быть стационарным
-
 ## eng
 
 TODO: add after finalizing materials 

@@ -20,6 +20,7 @@ scipy = ">=1.10,<1.13"
 scikit-learn = ">=1.0,<1.4"
 pmdarima = "<2.0"
 autots = "^0.6.21"
+fedot = "^0.7.5"
 
 
 [build-system]

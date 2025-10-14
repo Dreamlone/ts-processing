@@ -1,22 +1,21 @@
 [tool.poetry]
 name = "ts-processing"
 version = "0.1.0"
-description = "Practice for time series forecasting"
+description = ""
 authors = ["Dreamlone <mik.sarafanov@gmail.com>"]
 readme = "README.md"
 packages = [{include = "ts_processing"}]
 
 [tool.poetry.dependencies]
-python = "^3.13"
-pandas = "^2.3.2"
-matplotlib = "^3.10.6"
+python = "^3.10"
 jupyterlab = "^4.4.9"
-statsmodels = "^0.14.5"
+matplotlib = "^3.10.7"
+pandas = "^2.3.3"
 ipywidgets = "^8.1.7"
-pywavelets = "^1.9.0"
-pydmd = "^2025.8.1"
-tslearn = "^0.6.4"
+statsmodels = "^0.14.5"
+pywavelets = "<1.9"
 pyts = "^0.13.0"
+pmdarima = "^2.0.4"
 
 
 [build-system]
